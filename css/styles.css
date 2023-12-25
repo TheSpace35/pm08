@@ -722,6 +722,7 @@ button a {
   }
   .section-title {
     font-size: 54px;
+    margin: auto 24px;
   }
   .title {
     font-size: 38px;
